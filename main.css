@@ -1,0 +1,17 @@
+body {
+  background: skyblue;
+}
+.container {
+  margin: 40px auto;
+}
+
+.images {
+  width: 400px;
+  height: 400px;
+}
+h1 {
+  font-size: 100px;
+  color: #fff;
+  text-align: center;
+  margin-bottom: 50px;
+}
